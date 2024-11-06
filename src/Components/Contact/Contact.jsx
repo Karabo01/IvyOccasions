@@ -38,9 +38,9 @@ const Contact = () => {
             <h3 > Send us a message <img src={msg_icon} alt=''/></h3>
             <p>Fell free to reach out to us</p>
             <ul>
-                <li><img src={mail_icon} alt="" />majela.morena.681@gmail.com</li>
-                <li><img src={phone_icon} alt="" />+27 81 702 4289</li>
-                <li><img src={location_icon} alt="" />Nellmaphius ext 7</li>
+                <li><img src={mail_icon} alt="" />louisegaulekapa@gmail.com</li>
+                <li><img src={phone_icon} alt="" />+27 63 634 8606</li>
+                <li><img src={location_icon} alt="" />Pretoria</li>
             </ul>
         </div>
         <div className="contact-col">
